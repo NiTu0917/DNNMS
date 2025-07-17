@@ -1,4 +1,4 @@
-# DCNNMS
+# DPNNMS
 Prediction of Drug-Target Interactions Based on Dual Convolutional Neural Networks and Multi-Head Self-Attention
 
 # Data
