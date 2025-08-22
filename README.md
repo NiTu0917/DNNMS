@@ -1,5 +1,5 @@
 # DNNMS
-A Dual-Path Neural Network Framework with Multi-Head Self-Attention for Drug-Target Interaction Prediction
+A Dual-Path Neural Network model with Multi-Head Self-Attention for Predicting Drug-Target Interaction 
 
 # Data
 Two datasets, C.elegans and Human, were selected, and each dataset contained nodes of drugs and targets. For drugs, we extracted corresponding the physicochemical property feature vector and ECFP feature vector. For targets, we extracted the corresponding dipeptide composition feature vector and semantic feature vector.
